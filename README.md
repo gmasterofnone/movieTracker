@@ -1,13 +1,15 @@
-#Movie Tracker
-This project allows users to sign in and save their favorite movies under their profile. It was made using The Movie DB API and Create-React-App.
+## MovieTracker
+Recreating Netflix's amazing app using only The MovieDB API:  Users can search, preview and save all the hottest movies to a personal account.
 
 ## Project Goals
-* Pull in movies from Movie DB API.
-* Login, sign up, and favorites pages utilize router.
-* Can create new user, and sign in and sign out current user.
-* Each movie can be saved to favorites and removed from favorites for that user.
-* User can see a list of their favorites.
-* User can see an individual movie (extension).
+* Elegant UI/UX built with with React & Router
+* Global asynchronous state with Redux and Redux Thunks
+* PSQL backend for User Auth and Info
+* Tested with Enzyme & Jest
+
+## Demo
+[![MovieTracker Demo](https://img.youtube.com/vi/i12T7EDjZSw/0.jpg)](https://www.youtube.com/watch?v=i12T7EDjZSw)
+
 
 ## Set Up
 Clone down and follow instructions for setting up [this backend repository.](https://github.com/turingschool-examples/movie-tracker)
